@@ -8,6 +8,7 @@ label{
     width: 150px;
     text-align: right;
     font-style: italic;
+    
   }
 
 div.form {
@@ -15,4 +16,15 @@ div.form {
     justify-content: center;
     width: 100%;
     height: 100%;
+    border-radius: 20px;
+    background-color: lightblue;
+    padding: 10px;
 }
+
+input {
+    background-color: #c2b1c2;
+  }
+
+ #suffix, #state, #issuing {
+    background-color:aquamarine;
+ } 
